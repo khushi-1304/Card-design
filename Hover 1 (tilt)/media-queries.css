@@ -1,0 +1,22 @@
+@media screen and (max-width: 1250px) {
+    .blog-post{
+        width: 300px;
+    }
+}
+@media screen and (max-width: 1030px) {
+    .blog-post{
+        width: 70%;
+    }
+    .blog-post_img{
+        height: 350px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .blog-post{
+        margin: 20px 10px;
+        width: 100%;
+    }
+    .blog-container{
+        padding: 20px;
+    }
+}    
